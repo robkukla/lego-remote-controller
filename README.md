@@ -5,10 +5,7 @@ This project is a remote controller for LEGO Technic Hub. It uses BLE (Bluetooth
 
 ## Requirements
 - Python 3.7
-  - libraries
-    - bleak
-    - keyboard
-    - asyncio
+  - libraries [requirements.txt](requirements.txt)
 - LEGO Technic Hub
 
 ## Installation
